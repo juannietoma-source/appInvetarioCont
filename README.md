@@ -58,8 +58,8 @@ La aplicación está construida siguiendo las mejores prácticas recomendadas po
 ### Pasos para Ejecutar
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/mi-aplicacion-inventario.git
-   cd mi-aplicacion-inventario
+   git clone https://github.com/juannietoma-source/appInvetarioCont.git
+   cd appInvetarioCont
    ```
 2. **Abrir en Android Studio:**
    Abre Android Studio, selecciona *Open* y elige la carpeta del proyecto.
