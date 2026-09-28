@@ -30,7 +30,7 @@
 
 | Dashboard (Inicio) | Gestión de Inventario | Registro de Contabilidad |
 | :---: | :---: | :---: |
-| ![Dashboard](appInvetarioCont/Dashboard.png) | ![Inventario](appInvetarioCont/inventory.png) | ![Contabilidad](appInvetarioCont/transactions.png) |
+| ![Dashboard](Dashboard.png) | ![Inventario](inventory.png) | ![Contabilidad](transactions.png) |
 
 ---
 
